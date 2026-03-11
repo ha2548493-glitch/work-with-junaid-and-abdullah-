@@ -10,6 +10,7 @@ function App() {
   
      {/* <LearnRecharts/> */}
      <Zain/>
+     
     </div>
   );
 }
