@@ -11,7 +11,11 @@ function App() {
   
      {/* <LearnRecharts/> */}
      <Zain/>
+<<<<<<< HEAD
      <Abdullah/>
+=======
+     
+>>>>>>> e36bd4743ed0c755d60cc6730f6429d876cc10c6
     </div>
   );
 }
